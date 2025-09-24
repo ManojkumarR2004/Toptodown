@@ -116,6 +116,17 @@ h2{
     height: 150px;
     border-radius: 20px;
 }
+.install{
+    border: 1px solid green;
+    text-align: center;
+    width: 200px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+.install:hover{
+    background-color: rgb(9, 82, 9);
+}
 
 
 
