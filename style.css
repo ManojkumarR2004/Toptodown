@@ -46,6 +46,9 @@ li{
     margin-left: 100px;
     cursor: pointer;
 }
+a:hover{
+       box-shadow: 1px 15px 20px rgb(188, 188, 255);
+}
 .head nav ul li a:hover{
     color: rgb(113, 113, 192);
 }
