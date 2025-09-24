@@ -118,6 +118,7 @@ h2{
 }
 .install{
     border: 1px solid green;
+    border-radius: 10px;
     text-align: center;
     width: 200px;
     background-color: green;
